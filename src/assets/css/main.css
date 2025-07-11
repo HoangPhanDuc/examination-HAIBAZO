@@ -1,0 +1,23 @@
+.main-layout {
+  border: 2px solid black;
+  width: 430px;
+  height: 550px;
+}
+
+input {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+.message-success {
+  color: green !important;
+}
+
+.message-fail {
+  color: orange !important;
+}
+
+.next-index {
+  position: absolute;
+  bottom: 0px;
+}

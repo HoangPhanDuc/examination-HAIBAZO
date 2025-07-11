@@ -1,0 +1,20 @@
+.one-point {
+  position: absolute;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgb(210, 80, 18);
+  border-radius: 50%;
+  background-color: white;
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translate(-50%, -50%);
+}
+
+.effectPointRemove{
+  background-color: rgb(210, 108, 25);
+}
